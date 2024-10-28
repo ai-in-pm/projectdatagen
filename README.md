@@ -1,6 +1,7 @@
 # ProjectDataGen
 
 ProjectDataGen is an advanced AI-powered platform for generating comprehensive project management datasets tailored for government contracts, including IPMDAR, PARS, and DECM reporting requirements. The platform specializes in industries like aerospace, defense, and Space Force operations, and supports a wide range of project management methodologies such as Agile, Earned Schedule, and Behavioral Project Management. Designed to handle multiple contract types (CPFF, CPIF, CPAF, etc.) and scales from small projects to enterprise-level initiatives, ProjectDataGen delivers intelligent data generation for earned value management, behavioral analytics, and compliance reporting.
+![image](https://github.com/user-attachments/assets/d40b366d-4622-4528-a801-546976194ff4)
 
 ---
 
